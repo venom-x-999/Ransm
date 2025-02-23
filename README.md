@@ -1,4 +1,5 @@
-#Termux Encryption Tool
+Termux Encryption Tool
+
 A simple encryption-decryption tool made for fun, specifically designed for Termux.
 
 *How to usage*
